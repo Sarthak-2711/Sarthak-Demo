@@ -1,4 +1,4 @@
 # Sarthak-Demo
 This is my first github repository.
 <br>
-author - Sarthak garg
+author - Sarthak garg (dit)
